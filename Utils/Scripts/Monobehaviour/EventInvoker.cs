@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace MetaMultiVision.Utils.Monobehaviours
+namespace qasym.Utils.Monobehaviours
 {
     public class EventInvoker : MonoBehaviour
     {

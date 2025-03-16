@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace MetaMultiVision.Utils.Monobehaviours
+namespace qasym.Utils.Monobehaviours
 {
 	[RequireComponent(typeof(Rigidbody))]
 	[ExecuteInEditMode]
