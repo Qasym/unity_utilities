@@ -1,0 +1,13 @@
+{
+    "name": "com.qasym.utilities",
+    "version": "1.0.0",
+    "displayName": "Qasym's utilities",
+    "description": "A simple package of frequently used utility scripts",
+    "unity": "2018.3",
+    "author": {
+      "name": "Kasymzhan Abdyldayev",
+      "email": "kasymzhan.abdyldayev@gmail.com",
+      "url": "https://github.com/qasym"
+    },
+    "dependencies": {}
+}
